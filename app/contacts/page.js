@@ -281,7 +281,7 @@ export default function ContactPage() {
                     <div>
                       <h3 className="text-lg font-semibold text-white mb-1">Email Us</h3>
                       <p className="text-gray-400 mb-2">We typically respond within 24 hours</p>
-                      <a href="mailto:support@hewlett-hubsolutions.com" className="text-cyan-400 hover:text-cyan-300 transition-colors text-lg font-medium">support@hewlett-hubsolutions.com</a>
+                      <a href="mailto:support@123printersolutionshub" className="text-cyan-400 hover:text-cyan-300 transition-colors text-lg font-medium">support@123printersolutionshub.com</a>
                     </div>
                   </div>
 

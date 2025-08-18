@@ -274,7 +274,7 @@ export default function RefundPolicyPage() {
                     </div>
                     <div>
                       <p className="text-gray-400 text-sm">Email Support</p>
-                      <p className="text-white">returns@hewletthub.com</p>
+                      <p className="text-white">123printersolutionshub</p>
                     </div>
                   </div>
                 </div>

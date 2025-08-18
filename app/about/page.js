@@ -76,7 +76,7 @@ export default function AboutPage() {
               transition={{ duration: 0.8 }}
             >
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-cyan-300">
-                About Hewlett Hub
+                About 123printersolutionshub
               </span>
             </motion.h1>
             <motion.p
