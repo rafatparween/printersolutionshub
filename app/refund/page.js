@@ -263,7 +263,7 @@ export default function RefundPolicyPage() {
                     </div>
                     <div>
                       <p className="text-gray-400 text-sm">Phone Support</p>
-                      <p className="text-white">1-800-HH-SOLUTIONS</p>
+                      <p className="text-white"> +1 (808) 468-1010</p>
                     </div>
                   </div>
                   <div className="flex items-center">
