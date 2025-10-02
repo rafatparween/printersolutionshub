@@ -230,7 +230,7 @@ Your privacy is important to us. We collect customer data only for order fulfill
              123printersolutionshub<br />
               Attn: Privacy Officer<br />
               privacy@123printersolutionshub.com<br />
-              +1 (800) 123-4567
+              +1 (808) 468-1010
             </p>
             <p className="text-gray-300">
               For EU residents, you may also lodge a complaint with your local data protection authority.
